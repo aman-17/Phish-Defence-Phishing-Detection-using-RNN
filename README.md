@@ -1,4 +1,4 @@
-# web-phishing-using-lstm-gru
+## Phish-Defence: Phishing Detection Using Deep Recurrent Neural Networks
 
 In the growing world of the internet, the number of ways to obtain crucial data such as passwords and login cre- dentials, as well as sensitive personal information has expanded. Page impersonation, often known as phishing, is one method of obtaining such valuable information. Phishing is one of the most straightforward forms of cyber-attack for hackers, as well as one of the simplest for victims to fall for. It can also provide hackers with everything they need to access their targets’ personal and corporate accounts. Such websites do not provide a service but instead gather personal information from users. In this paper, we achieved state-of-the-art accuracy in detecting malicious URLs using recurrent neural networks. Unlike previous studies, which looked at online content, URLs, and traffic numbers, we merely look at the text in the URL, which makes it quicker and catches zero-day assaults. The network has been optimized so that it may be utilized on tiny devices like Mobiles, Raspberry Pi without sacrificing the inference time.
 
